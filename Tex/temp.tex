@@ -1,0 +1,69 @@
+\documentclass[a4paper,a4j,10pt]{bxjsarticle}
+\usepackage{zxjatype}
+\usepackage{xltxtra}
+\usepackage{fancybox}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{enumerate}
+\usepackage{ascmac}
+\usepackage{fontspec}
+\usepackage{verbatim}
+\usepackage{setspace}
+\usepackage{listings}
+\usepackage{framed}
+\usepackage{color}
+\usepackage{geometry}
+  \geometry{top=5mm,bottom=10mm,left=20mm,right=20mm}
+
+\lstset{%
+  language={},
+  basicstyle={\scriptsize},
+  % escapechar=\@,
+  framexleftmargin=6mm,
+  identifierstyle={\scriptsize},
+  commentstyle={\engrm\itshape \color[cmyk]{1,0.4,1,0}},
+  keywordstyle={\srcrm\bfseries \color[cmyk]{0.94, 0.54, 0, 0}},
+  ndkeywordstyle={\srcrm},
+  stringstyle={\srcrm \color[cmyk]{1, 0, 1, 0}},
+  frame={ltRB},
+  breaklines=true,
+  columns=[l]{fullflexible},
+  numbers=left,
+  showstringspaces=false,
+  numberstyle={\scriptsize},
+  stepnumber=1,
+}
+% \pagestyle{empty}
+
+% --------------------------------------------------------------
+\setmainfont{Times New Roman} % 欧文メインフォント
+\setsansfont{Lucida Grande}      % 欧文sansフォント
+% \setsansfont{}      % 欧文sansフォント
+\setmonofont{Lucida Grande}      % 欧文monoフォント
+\setjamainfont{Hiragino Mincho ProN}         % 和文メインフォント
+\setjasansfont{Hiragino Kaku Gothic ProN}    % 和文sansフォント
+\setjamonofont{Hiragino Kaku Gothic ProN}    % 和文monoフォント
+% --------------------------------------------------------------
+
+\renewcommand{\figurename}{図}
+\renewcommand{\tablename}{表}
+\renewcommand{\lstlistingname}{リスト}
+\renewcommand{\refname}{参考文献}
+\renewcommand{\contentsname}{{\bf 目次}}
+\title{Ruby}
+\author{東京都立産業技術高等専門学校\ \ 電子情報工学科\ \ 半澤順一}
+\date{}
+
+% プリアンブル-----------------------------------------------------------
+\begin{document}
+\lstinputlisting[caption=dbgScaner.rb]{../dbgScaner.rb}
+\lstinputlisting[caption=grid.rb]{../grid.rb}
+\lstinputlisting[caption=iden.rb]{../iden.rb}
+\lstinputlisting[caption=list.rb]{../list.rb}
+\lstinputlisting[caption=read.rb]{../read.rb}
+\lstinputlisting[caption=test.rb]{../test.rb}
+\lstinputlisting[caption=method.rb]{../method.rb}
+\lstinputlisting[caption=loadFile.rb]{../loadFile.rb}
+\lstinputlisting[caption=relativeC.rb]{../relativeC.rb}
+\lstinputlisting[caption=summarize.rb]{../summarize.rb}
+\end{document}
