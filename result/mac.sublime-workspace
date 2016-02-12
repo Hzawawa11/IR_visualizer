@@ -1,0 +1,1098 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"yami",
+				"yamiStatus"
+			],
+			[
+				"ya",
+				"yamiStatus"
+			],
+			[
+				"D",
+				"DEFAULT_Y"
+			],
+			[
+				"char",
+				"character"
+			],
+			[
+				"chr",
+				"chrPat"
+			],
+			[
+				"clear",
+				"clear_palette"
+			],
+			[
+				"show",
+				"showStatus"
+			],
+			[
+				"DE",
+				"DEFAULT_X"
+			],
+			[
+				"De",
+				"DEFAULT_X"
+			],
+			[
+				"print",
+				"printItem	(libsangich.c)"
+			],
+			[
+				"prin",
+				"printItem	(libsangich.c)"
+			],
+			[
+				"sangi",
+				"sangich"
+			],
+			[
+				"gua",
+				"guagePat"
+			],
+			[
+				"gu",
+				"guagePat"
+			],
+			[
+				"i",
+				"if	If Condition"
+			],
+			[
+				"ch",
+				"chrPat"
+			],
+			[
+				"Char",
+				"charaNum"
+			],
+			[
+				"move",
+				"moveStatus"
+			],
+			[
+				"dis",
+				"distanceX"
+			],
+			[
+				"dsi",
+				"distanceX"
+			],
+			[
+				"visualize",
+				"visualize_line"
+			],
+			[
+				"out",
+				"output_num"
+			],
+			[
+				"Co",
+				"Conversion"
+			],
+			[
+				"base",
+				"baseLine"
+			],
+			[
+				"rela",
+				"relativeMeta"
+			],
+			[
+				"gd",
+				"gdb_line"
+			],
+			[
+				"line",
+				"line_list"
+			],
+			[
+				"this",
+				"thisLine"
+			],
+			[
+				"each",
+				"each_with_index〔function〕"
+			],
+			[
+				"instr",
+				"instr_list"
+			],
+			[
+				"instr_",
+				"instr_list"
+			],
+			[
+				"inst",
+				"instr_line"
+			],
+			[
+				"thi",
+				"thisLine"
+			],
+			[
+				"Fi",
+				"FileName"
+			],
+			[
+				"Opeco",
+				"OpecodetoArray"
+			],
+			[
+				"iden",
+				"ident	(game.ll)"
+			],
+			[
+				"begin",
+				"begin〔function〕"
+			],
+			[
+				"NE",
+				"NextLabel"
+			],
+			[
+				"var",
+				"var_p"
+			],
+			[
+				"next",
+				"nextLabel"
+			],
+			[
+				"lin",
+				"lineage"
+			],
+			[
+				"in",
+				"instruction"
+			],
+			[
+				"ope",
+				"opelist"
+			],
+			[
+				"ne",
+				"next	(multi-list.c)"
+			],
+			[
+				"LA",
+				"LabelRange"
+			],
+			[
+				"fu",
+				"functionRange"
+			],
+			[
+				"add",
+				"add_data"
+			],
+			[
+				"name",
+				"nameCount"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"bl",
+				"blockHead"
+			],
+			[
+				"data",
+				"dataHead	(multi-list.c)"
+			],
+			[
+				"bloc",
+				"blockHead	(multi-list.c)"
+			],
+			[
+				"get",
+				"getDataPointer"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"DA",
+				"DataPointer"
+			],
+			[
+				"Da",
+				"DataPointer"
+			],
+			[
+				"dat",
+				"data"
+			],
+			[
+				"show_",
+				"show_block"
+			],
+			[
+				"function",
+				"function"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"type",
+				"typedef"
+			],
+			[
+				"st",
+				"stdio	(bmp.h)"
+			],
+			[
+				"C",
+				"Count"
+			],
+			[
+				"buf",
+				"bufCount"
+			],
+			[
+				"tok",
+				"tokCount"
+			],
+			[
+				"CH",
+				"CharCount"
+			],
+			[
+				"th",
+				"threeCont"
+			],
+			[
+				"read",
+				"readline"
+			],
+			[
+				"rea",
+				"readLine"
+			],
+			[
+				"Fun",
+				"FunctionObj"
+			],
+			[
+				"F",
+				"FunctionObj"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"La",
+				"label"
+			],
+			[
+				"Basi",
+				"BasicObj"
+			],
+			[
+				"Ba",
+				"BasicTEMP"
+			],
+			[
+				"BA",
+				"BasicCont"
+			],
+			[
+				"basi",
+				"BasicCont"
+			],
+			[
+				"Funci",
+				"FunctionCont"
+			],
+			[
+				"f",
+				"flag	(choice.php)"
+			],
+			[
+				"ba",
+				"basicCont"
+			],
+			[
+				"basic",
+				"basicCont"
+			],
+			[
+				"la",
+				"labelFLAG"
+			],
+			[
+				"func",
+				"functionFLAG"
+			],
+			[
+				"co",
+				"colors"
+			],
+			[
+				"var_",
+				"var_dump〔function〕"
+			],
+			[
+				"fore",
+				"foreach〔keyword〕"
+			],
+			[
+				"reci",
+				"recipi_name"
+			],
+			[
+				"is",
+				"isUniqueArray"
+			],
+			[
+				"re",
+				"recipe"
+			],
+			[
+				"su",
+				"sum_money"
+			],
+			[
+				"sum_",
+				"sum_key"
+			],
+			[
+				"sum",
+				"sum_key"
+			],
+			[
+				"material",
+				"material_id"
+			],
+			[
+				"mone",
+				"money_data"
+			],
+			[
+				"GET_M",
+				"GET_MONEY	(ramdom.php)"
+			],
+			[
+				"mate",
+				"material_moeny"
+			],
+			[
+				"sto",
+				"store_flag"
+			],
+			[
+				"0xf",
+				"0xff	(create.c)"
+			],
+			[
+				"mon",
+				"month_use"
+			],
+			[
+				"arr",
+				"arrayNum"
+			],
+			[
+				"one",
+				"oneday_basic"
+			],
+			[
+				"ave",
+				"ave_real"
+			],
+			[
+				"d",
+				"diff"
+			],
+			[
+				"Fru",
+				"Fruit_count"
+			],
+			[
+				"Si",
+				"Side_count"
+			],
+			[
+				"M",
+				"Main"
+			],
+			[
+				"Sta",
+				"Staple_count"
+			],
+			[
+				"Main",
+				"Maindata"
+			],
+			[
+				"S",
+				"Stapledata"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"soe",
+				"source_diff"
+			],
+			[
+				"sourc",
+				"source_diff"
+			],
+			[
+				"sou",
+				"source_diff"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"par",
+				"parse_copy"
+			],
+			[
+				"Sql",
+				"SplQueue〔class〕"
+			],
+			[
+				"com",
+				"combineKeys2"
+			],
+			[
+				"comi",
+				"combineArray"
+			],
+			[
+				"rand",
+				"rand_keys"
+			],
+			[
+				"array",
+				"arrayNum"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"file",
+				"fileNAME"
+			],
+			[
+				"fi",
+				"fileNAME	(menu_example8.c)"
+			],
+			[
+				"fil",
+				"fileNAME"
+			],
+			[
+				"FILE",
+				"FILE_LINE"
+			],
+			[
+				"FI",
+				"FILE_LINE"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 308.0,
+		"last_filter": "merge",
+		"selected_items":
+		[
+			[
+				"merge",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"mer",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"LaTeXTools: Reconfigure and migrate settings",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 381.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = 'Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(’ ’, ’%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb’ ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hiro/Program",
+		"/Users/hiro/Program/C",
+		"/Users/hiro/Program/C/cat",
+		"/Users/hiro/Program/C/cat/sangich",
+		"/Users/hiro/Program/C/cat/sangich/hanzawa",
+		"/Users/hiro/Program/C/cat/testpalette",
+		"/Users/hiro/Program/C/Sample/Sample10",
+		"/Users/hiro/Program/PHP",
+		"/Users/hiro/Program/PHP/BMPtoArray",
+		"/Users/hiro/Program/Ruby/idenColor",
+		"/Users/hiro/Program/Ruby/IR_Reader",
+		"/Users/hiro/Program/Ruby/IR_Reader/Sample",
+		"/Users/hiro/Program/Ruby/Visualizer",
+		"/Users/hiro/Tex",
+		"/Users/hiro/Tex/Database/0727",
+		"/Users/hiro/Tex/Database/0805"
+	],
+	"file_history":
+	[
+		"/Users/hiro/Program/C/cat/sangich/hanzawa/libsangich.h",
+		"/Users/hiro/Program/C/cat/sangich/hanzawa/libsangich.c",
+		"/Users/hiro/Program/C/cat/sangich/hanzawa/data.c",
+		"/Users/hiro/Program/C/cat/sangich/hanzawa/main.c",
+		"/Users/hiro/Program/C/cat/sangich/hanzawa/data.h",
+		"/Users/hiro/Program/C/cat/sangich/testpalette/data.h",
+		"/Users/hiro/Program/C/cat/sangich/testpalette/data.c",
+		"/Users/hiro/Program/PHP/BMPtoArray/CtoArray.php",
+		"/Users/hiro/Program/C/cat/sangich/berico/libsangich.c",
+		"/Users/hiro/Program/C/cat/sangich/berico/main.c",
+		"/Users/hiro/Program/C/cat/sangich/berico/libsangich.h",
+		"/Users/hiro/Program/C/cat/sangich/hanzawa/libpalette.h",
+		"/Users/hiro/Program/C/cat/sangich/berico/berico/main.c",
+		"/Users/hiro/Program/C/cat/sangich/testpalette/libsangich.h",
+		"/Users/hiro/Program/C/cat/sangich/testpalette/libpalette.c",
+		"/Users/hiro/Program/C/cat/sangich/testpalette/libsangich.c",
+		"/Users/hiro/Program/C/cat/sangich/testpalette/main.c",
+		"/Users/hiro/Program/C/cat/sangich/hanzawa/libpalette.c",
+		"/Users/hiro/Program/C/cat/sangich/testpalette/defineLCD.h",
+		"/Users/hiro/Program/C/cat/sangich/berico/berico/libsangich.c",
+		"/Users/hiro/Program/C/Sample/Sample10/cg.ll",
+		"/Users/hiro/Program/C/cat/sangich/berico/berico/libsangich.h",
+		"/Users/hiro/Program/C/cat/sangich/testpalette/lib.c",
+		"/Users/hiro/Program/C/cat/sangich/testpalette/Makefile",
+		"/Users/hiro/Program/C/cat/sangich/chara array/char.c",
+		"/Users/hiro/Program/Ruby/idenColor/idenScanner.rb",
+		"/Users/hiro/Program/Ruby/IR_Reader/main.rb",
+		"/Users/hiro/Program/Ruby/IR_Reader/loadFile.rb",
+		"/Users/hiro/Program/PHP/BMPtoArray/chara_pic.txt",
+		"/Users/hiro/Program/C/Sample/Sample9/loopA.ll",
+		"/Users/hiro/Program/C/common/game/gomoku/game.c",
+		"/Users/hiro/Program/C/common/game/gomoku/game.ll",
+		"/Users/hiro/Program/Ruby/idenColor/iden.rb",
+		"/Users/hiro/Program/Ruby/IR_Reader/summarize.rb",
+		"/Users/hiro/Program/Ruby/IR_Reader/result/line.txt",
+		"/Users/hiro/Program/Ruby/IR_Reader/visualize.rb",
+		"/Users/hiro/Program/Ruby/IR_Reader/grid.rb",
+		"/Users/hiro/Tex/Database/specification/temp.tex",
+		"/Users/hiro/Tex/Database/source/temp.tex",
+		"/Users/hiro/Tex/Database/specification/watarasi.tex",
+		"/Users/hiro/Tex/Database/specification/body.tex",
+		"/Users/hiro/Program/C/cat/test/inc.h",
+		"/Users/hiro/Program/C/cat/test/A.c",
+		"/Users/hiro/Program/C/cat/test/B.c",
+		"/Users/hiro/Program/C/cat/sangich/chara array/chara.c",
+		"/Users/hiro/Program/C/cat/sangich/testpalette/libswitch.c",
+		"/Users/hiro/Program/C/cat/sangich/testpalette/liblcd.c",
+		"/Users/hiro/Program/C/cat/sangich/chara array/menu_Array.txt",
+		"/Users/hiro/Program/C/cat/testpalette/main.c",
+		"/Users/hiro/Program/Ruby/IR_Reader/iden.rb",
+		"/Users/hiro/Program/Ruby/IR_Reader/result/gdb.txt",
+		"/Users/hiro/Program/Ruby/IR_Reader/result/instr.txt",
+		"/Users/hiro/Program/Ruby/IR_Reader/dbgScaner.rb",
+		"/Users/hiro/Program/Ruby/Visualizer/visualize.rb",
+		"/Users/hiro/Program/Ruby/IR_Reader/Sample/sample.c",
+		"/Users/hiro/Program/C/Sample/Sample6/variableA.c",
+		"/Users/hiro/Program/C/Sample/Sample1/matricsA.c",
+		"/Users/hiro/Library/Application Support/Sublime Text 3/Packages/User/ll.JSON-tmLanguage",
+		"/Users/hiro/Program/C/cat/testpalette/lib.c",
+		"/Users/hiro/Program/C/cat/testpalette/lib.h",
+		"/Volumes/SONY/menu_Array.txt",
+		"/Users/hiro/Program/Ruby/Visualizer/result.txt",
+		"/Users/hiro/Desktop/cat/MieruEMB配布資料/SDK/app/104_pic/main.c",
+		"/Users/hiro/Program/PHP/BMPtoArray/test.txt",
+		"/Users/hiro/Tex/seminal/_0105/temp.tex",
+		"/Users/hiro/Program/C/common/if/A.ll",
+		"/Users/hiro/Program/C/seminarl/C/BMP_Creater/Makefile",
+		"/Users/hiro/Tex/seminal/National_convention/temp.tex",
+		"/Users/hiro/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/hiro/Program/PHP/BMPtoArray/info.php",
+		"/Users/hiro/Tex/seminal/1221/temp.tex",
+		"/Users/hiro/Program/PHP/BMPtoArray/test.php",
+		"/Users/hiro/Tex/seminal/1030/komiya2.tex",
+		"/Users/hiro/Tex/seminal/LLVMInstr/temp.tex",
+		"/Users/hiro/Program/C/seminarl/C/BMP_Creater/main.c",
+		"/Users/hiro/Program/C/seminarl/C/BMP_Creater/create.c",
+		"/Users/hiro/Tex/Network/temp.tex",
+		"/Users/hiro/Tex/seminal/IPSJ/UTF8/jsample.tex",
+		"/Users/hiro/Tex/seminal/intermediate/xelatex/temp.tex",
+		"/Users/hiro/Tex/seminal/intermediate/5430.tex",
+		"/Users/hiro/Program/C/Sample/Sample9/loopA.c",
+		"/Users/hiro/Tex/seminal/1229/temp.tex",
+		"/Users/hiro/Program/Ruby/IR_Reader/relativeC.rb",
+		"/Users/hiro/Program/C/Sample/Sample2/if-elseA.ll",
+		"/Users/hiro/Program/Ruby/idenColor/test.rb",
+		"/Users/hiro/Program/Ruby/IR_Reader/shell.rb",
+		"/Users/hiro/Program/Ruby/IR_Reader/idenScanner.rb",
+		"/Users/hiro/Program/Ruby/IR_Reader/ShellScript/make.sh",
+		"/Users/hiro/Program/Ruby/IR_Reader/ShellScript/color_cat.sh",
+		"/Users/hiro/Program/Apache/phpMyAdmin/js/codemirror/lib/codemirror.js",
+		"/Users/hiro/Program/Ruby/IR_Reader/result/mac.sublime-project",
+		"/Users/hiro/Program/C/common/test/lisp.ll",
+		"/Users/hiro/Tex/Output/temp.tex",
+		"/Users/hiro/Program/C/common/if/Makefile",
+		"/Users/hiro/Program/C/common/test/lisp.c",
+		"/Users/hiro/Program/Ruby/IR_Reader/ShellScript/color_result.sh",
+		"/Users/hiro/Program/Apache/phpMyAdmin/doc/html/_static/underscore.js",
+		"/Users/hiro/Program/Ruby/IR_Reader/37 getelementptrstoreload ",
+		"/Users/hiro/Program/Ruby/IR_Reader/36 bitcastgetelementptrstore ",
+		"/Users/hiro/Program/Nakashima/ns-allinone-3.23/netanim-3.106/routingstatsscene.cpp",
+		"/Users/hiro/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/hiro/Program/HTML/css/style_main.css",
+		"/Users/hiro/Program/Ruby/IR_Reader/grep",
+		"/Users/hiro/Program/Ruby/IR_Reader/190 getelementptrbitcastgetelementptr ",
+		"/Users/hiro/Program/Ruby/IR_Reader/189 loadgetelementptrbitcast ",
+		"/Users/hiro/Program/Ruby/IR_Reader/160 callcallcall ",
+		"/Users/hiro/Program/Ruby/IR_Reader/154 bitcastgetelementptrload ",
+		"/Users/hiro/Program/Ruby/IR_Reader/71 loadcallstore ",
+		"/Users/hiro/Program/Ruby/IR_Reader/67 loadloadcall ",
+		"/Users/hiro/Program/Ruby/IR_Reader/65 callloadcall ",
+		"/Users/hiro/Program/Ruby/IR_Reader/64 loadcallload ",
+		"/Users/hiro/Program/Ruby/IR_Reader/57 loadgetelementptrload ",
+		"/Users/hiro/Program/Ruby/IR_Reader/56 loadcallcall ",
+		"/Users/hiro/Program/Ruby/IR_Reader/54 callstoreload ",
+		"/Users/hiro/Program/Ruby/IR_Reader/54 loadloadgetelementptr ",
+		"/Users/hiro/Program/Ruby/IR_Reader/53 storestoreload ",
+		"/Users/hiro/Program/Ruby/IR_Reader/44 getelementptrloadstore ",
+		"/Users/hiro/Program/Ruby/IR_Reader/44 storeloadicmp ",
+		"/Users/hiro/Program/Ruby/IR_Reader/42 getelementptrloadload ",
+		"/Users/hiro/Program/Ruby/IR_Reader/39 storeloadload ",
+		"/Users/hiro/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
+		"/Users/hiro/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/Users/hiro/Program/Ruby/IR_Reader/read.rb",
+		"/Users/hiro/Program/ShellScript/color_result/color_result.sh",
+		"/Users/hiro/Program/Ruby/IR_Reader/list.rb",
+		"/Users/hiro/Program/Ruby/IR_Reader/method.rb",
+		"/Users/hiro/Tex/Cgenngo/temp.tex",
+		"/Users/hiro/Program/C/Sample/Sample1/matricsA.ll"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"./",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"chrPat",
+			"charaNum",
+			"turn",
+			");\n",
+			"][",
+			",7,7,7,7,0,0,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,7},\n{7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,7},\n{7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,7},\n{7,7,7,0,0,0,0,0,0,0,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7},\n{7,7,7,0,0,0,0,0,0,0,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7},\n{7,7,7,0,0,7,7,7,0,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7},\n{7,7,7,0,0,7,7,7,0,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7},\n{7,7,7,0,0,7,0,0,0,0,7,7,0,0,7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7},\n{7,7,7,0,0,7,0,0,0,0,7,7,0,0,7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7},\n{7,7,7,0,0,7,7,7,0,0,0,0,0,0,7,7,0,0,7,7,7,7,0,0,0,0,0,0,7,7,7,0,0,7,7,7,7,7,7},\n{7,7,7,0,0,7,7,7,0,0,0,0,0,0,7,7,0,0,7,7,7,7,0,0,0,0,0,0,7,7,7,0,0,7,7,7,7,7,7},\n{7,7,7,0,0,7,7,7,0,0,7,7,0,0,7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7},\n{7,7,7,0,0,7,7,7,0,0,7,7,0,0,7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7},\n{7,7,7,0,0,0,0,0,0,0,7,7,0,0,7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7},\n{7,7,7,0,0,0,0,0,0,0,7,7,0,0,7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7},\n{7,7,7,7,7,7,0,0,7,7,7,7,0,0,0,0,0,0,0,0,0,0,0,0,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7},\n{7,7,7,7,7,7,0,0,7,7,7,7,0,0,0,0,0,0,0,0,0,0,0,0,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7},\n{7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7},\n{7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7},\n{7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7},\n{7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,7,7},\n{7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,0,0,7,7,7,7,7,7,7,7,7},\n{7,7,7,7,7,7,7,7,7,7,0,0,7,7,7,7,0,0,0,0,0,0,7,7,7,7,0,0,7,7,7,7,7,7,7,7,7,7,7},\n{7,7,7,7,7,7,7,7,7,7,0,0,7,7,7,7,0,0,0,0,0,0,7,7,7,7,0,0,7,7,7,7,7,7,7,7,7,7,7},\n{7,7,7,7,7,7,7,7,0,0,7,7,7,7,0,0,7,7,7,7,7,7,0,0,7,7,7,7,0,0,7,7,7,7,7,7,7,7,7},\n{7,7,7,7,7,7,0,0,0,0,7,7,7,7,0,0,7,7,7,7,7,7,0,0,7,7,7,7,0,0,7,7,7,7,7,7,7,7,7},\n{7,7,7,7,7,7,0,0,7,7,7,7,0,0,0,0,7,7,7,7,7,7,0,0,0,0,7,7,7,7,0,0,7,7,7,7,7,7,7},\n{7,7,7,7,7,7,0,0,7,7,7,7,0,0,0,0,7,7,7,7,7,7,0,0,0,0,7,7,7,7,0,0,7,7,7,7,7,7,7},\n{7,7,7,7,7,7,7,7,0,0,0,0,7,7,7,7,7,7,7,7,7,7,7,7,7,7,0,0,0,0,7,7,7,7,7,7,7,7,7},\n{7,7,7,7,7,7,7,7,0,0,0,0,7,7,7,7,7,7,7,7,7,7,7,7,7,7,0,0,0,0,7,7,7,7,7,7,7,7,7},\n{7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7},\n},",
+			"},\n",
+			"chrPat",
+			"、",
+			"。",
+			"matC",
+			"matB",
+			"matA",
+			"j",
+			"k",
+			"i",
+			"ine",
+			"Load",
+			"read_file",
+			"本研究で",
+			"  \n",
+			"代表的な命令例",
+			"カテゴリ名",
+			"代表的な命令例",
+			"小さい",
+			"大きい",
+			"粒度",
+			"ベーシックブロック単位でのグループ化",
+			"同じカテゴリの命令のグループ化の３つの手法の提案を行う．",
+			"ベーシックブロック内に出現した複数命令のグループ化",
+			"同じカテゴリの命令のグループ化",
+			"ベーシックブロック単位でのグループ化",
+			"ベーシックブロック内に出現した複数命令のグループ化",
+			"ベーシックブロック単位でのグループ化",
+			"ターミネータ命令",
+			"ビット2項命令",
+			"出現した命令を３命令ごとのグループ化",
+			"ベーシックブロック内に出現した命令を３命令ごとのグループ化",
+			"常康",
+			"Yoshimi",
+			"KUMAZAWA",
+			"Aggregate",
+			"Binary",
+			"Terminator",
+			"ator",
+			"Other",
+			"Terminator",
+			"ret",
+			"Terminator",
+			"add",
+			"Binary",
+			"shl",
+			"Bitwise",
+			"extractelement",
+			"Vector",
+			"Aggregate",
+			"extractvalue",
+			"Aggregate",
+			"invoke",
+			"resume",
+			"indirectbr",
+			"Vector",
+			"Other",
+			"Conversion",
+			"Terminator",
+			" \\",
+			"1",
+			"store",
+			"num",
+			"::",
+			"CwndTracer",
+			"test",
+			"\",\n",
+			"c",
+			"a",
+			"B",
+			"b",
+			" $",
+			"size",
+			"SIZE",
+			"size",
+			" \n",
+			"boardPrint",
+			"add_last",
+			"、",
+			"va_arg命令は、関数呼び出しの可変引数領域の引数にアクセスするために使用される．",
+			"、",
+			"ます",
+			"catchendpad命令はcatchpad命令のチェーンに関連付けられている呼び出しパーソナリティ機能と関連付けるためのLLVMの例外処理システムによって使用されます",
+			"まず",
+			"あす",
+			"。",
+			"inttoptr",
+			"to",
+			" ..",
+			"inttoptr",
+			"Addressing",
+			"Operations",
+			"shufflevector",
+			"fdiv命令は2つのオペランドの商を返します．floating",
+			"他の命令",
+			"Terminator",
+			"Instructions",
+			"‘, ‘",
+			"landingpad",
+			"va_arg",
+			"call",
+			"fcmp",
+			"ptrtoint",
+			"sitofp",
+			"uitofp",
+			"fptosi",
+			"fptrunc",
+			"trunc",
+			"getelementptr",
+			"atomicrmw",
+			"fence",
+			"iden",
+			" \n",
+			"iden",
+			"cleanupendpad",
+			"printf",
+			"bitcast",
+			";\n",
+			"printf",
+			"list",
+			"\"\"",
+			");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"，",
+			"．",
+			"SIZE",
+			", ",
+			".",
+			"recipe",
+			"    ",
+			"  ",
+			"y",
+			"start",
+			"userDB",
+			"output",
+			"main",
+			"create",
+			"title",
+			"login",
+			"BUFSI",
+			"){\n",
+			";\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.585470997557,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 59.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.package_dev":
+	{
+		"height": 94.0
+	},
+	"pinned_build_system": "",
+	"project": "mac.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"li",
+				"~/Program/seminarl/C/BMP_Creater/lib.c"
+			],
+			[
+				"",
+				"~/Tex/seminal/1030/komiya2.tex"
+			],
+			[
+				"int",
+				"Program/ncurses/ncurses/5430_Hanzawa/shell_int.h"
+			],
+			[
+				"shell.c",
+				"Program/ncurses/ncurses/5430_Hanzawa/shell.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

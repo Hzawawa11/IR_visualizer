@@ -50,7 +50,7 @@ $iden << "insertvalue"
 $iden << "insertvalue"
 
 #Memory Access and Addressing Operations
-# $iden << "alloca"
+$iden << "alloca"
 $iden << "load"
 $iden << "store"
 $iden << "fence"
